@@ -72,9 +72,9 @@ Cette configuration présente quelques différences importantes par rapport à C
    - Le **Vault** est mappé sur un autre bouton
    - Cette inversion est intentionnelle dans cette configuration
 
-2. **Crouch et Prone en mode Toggle** :
-   - Pour que le **Crouch** et le **Prone** fonctionnent correctement, il est **nécessaire** de les paramétrer en mode **Toggle** dans les paramètres du jeu
-   - Dans Star Citizen : **Options** → **Keybindings** → Rechercher "Crouch" et "Prone"
+2. **Crouch, Prone et Sprint en mode Toggle** :
+   - Pour que le **Crouch**, le **Prone** et le **Sprint** fonctionnent correctement, il est **nécessaire** de les paramétrer en mode **Toggle** dans les paramètres du jeu
+   - Dans Star Citizen : **Options** → **Keybindings** → Rechercher "Crouch", "Prone" et "Sprint"
    - Assurez-vous que ces actions sont configurées en **Toggle** (et non en Hold)
 
 ## ⚙️ Configuration avancée
