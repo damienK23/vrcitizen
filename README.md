@@ -109,7 +109,7 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou un
 ## 🙏 Remerciements
 
 - Basé sur la configuration **CouchCitizen 3.22**
-- Inspiré par **GCO 4.5 HOSAS**
+Vous pouvez utilisez les videos de Couc citizen pour voir la ocnfig : https://www.youtube.com/watch?v=9gPdLI2DewE&list=PL0hxs6q3ACPYAgRk447fqnGkYp4D6v-Sp
 
 ---
 
