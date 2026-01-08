@@ -63,6 +63,20 @@ Ce guide vous explique comment installer et configurer VRCitizen X Elite S2 pour
    - Tester la sélection d'armes (D-pad)
    - Tester le mode interaction (Y hold)
 
+## ⚠️ Variations par rapport à Couch Citizen
+
+Cette configuration présente quelques différences importantes par rapport à Couch Citizen :
+
+1. **Mobiglass et Vault inversés** :
+   - La **Mobiglass** est mappée sur le **bouton Xbox** (bouton central de la manette)
+   - Le **Vault** est mappé sur un autre bouton
+   - Cette inversion est intentionnelle dans cette configuration
+
+2. **Crouch et Prone en mode Toggle** :
+   - Pour que le **Crouch** et le **Prone** fonctionnent correctement, il est **nécessaire** de les paramétrer en mode **Toggle** dans les paramètres du jeu
+   - Dans Star Citizen : **Options** → **Keybindings** → Rechercher "Crouch" et "Prone"
+   - Assurez-vous que ces actions sont configurées en **Toggle** (et non en Hold)
+
 ## ⚙️ Configuration avancée
 
 ### Ajuster la sensibilité
